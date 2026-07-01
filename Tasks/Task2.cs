@@ -28,7 +28,7 @@ public static class Task2
     {
         Console.WriteLine("File 2 download started...");
         await Task.Delay(5000);
-        Console.WriteLine("V File 2 download finished.");
+        Console.WriteLine("File 2 download finished.");
     }
 
     private static async Task DownloadFile3()

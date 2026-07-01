@@ -17,6 +17,10 @@ Dasturda foydalanuvchi interfeysi sifatida qulay menyu tizimi tashkil etilgan bo
 * **Til:** C# (.NET)
 * **Asosiy tushunchalar:** Asynchronous Programming (`async`/`await`), `Task` klassi, Konsol ranglari bilan ishlash, `do-while` sikli.
 
+## Preview
+
+![Gif](assets/gif.gif)
+
 ## 💻 Dasturni Ishga Tushirish
 
 Loyiha konsol ilovasi (Console Application) shaklida yozilgan. Uni ishga tushirish uchun quyidagi buyruqlardan foydalanishingiz mumkin:
